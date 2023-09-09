@@ -1,0 +1,44 @@
+.form1{
+    width: 250px;
+    height: 450px;
+    background-color: rgb(36, 36, 41);
+    margin-top: 60px;
+    margin-left: 600px;
+    border-radius: 20px;
+    text-align: center;
+}
+#btn1{
+    border-radius: 10px 0px 0px 10px;
+}
+#btn2{
+        border-radius: 0px 10px 10px 0px;
+}
+#inp{
+    margin-top: 150px;
+    width: calc(100% - 20px);
+    height: 40px;
+
+}
+#btn3{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(54, 54, 62);
+    color: crimson;
+    border: none;
+   
+}
+#btn{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(54, 54, 62);
+    color: rgb(4, 212, 136);
+    border: none;
+    
+}
+#btn4{
+    width: 50px;
+    height: 40px;
+    background-color: rgb(54, 54, 62);
+    color: rgb(255, 255, 255);
+    border: none;
+}
